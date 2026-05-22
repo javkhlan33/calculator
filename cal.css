@@ -28,7 +28,9 @@ body {
   color: white;
   font-size: 45px;
   text-align: right;
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
 
 .buttons {
